@@ -264,7 +264,7 @@ const translations = {
     card6_title: "Италия",
     card6_desc: "Культура, гастрономия и романтика\nИсторические города, море, мода и изысканная кухня. Отличный выбор для тех, кто хочет совместить vacation и культурные впечатления.",
 
-    about_title: "Почему BI TOUR",
+    about_title: "Почему DREAM COMPASS",
     about_lead: "Мы не просто продаём туры. Мы берём на себя заботу о вашем отдыхе, чтобы вы спокойно наслаждались поездкой от первого шага до возвращения домой.",
 
     about_card1_title: "Индивидуальный подход",
@@ -287,6 +287,11 @@ const translations = {
     about_card9_desc: "Всегда объясним, подскажем и поможем",
 
     about_bottom: " — это спокойствие, уверенность и комфорт в каждом путешествии. Мы рядом на всех этапах, чтобы ваш vacation был именно таким, каким вы его представляете.",
+
+    director_info: "ФИО руководителя",
+    director_name: "Рахимова Феруза Шавкат кизи",
+    time_info: "Время работы:",
+    time_duration: "10:00 - 19:00",
 
     map_title: "Наш Адрес",
 
@@ -339,7 +344,7 @@ const translations = {
     card6_title: "Italiya",
     card6_desc: "Madaniyat, gastronomiya va romantika. Tarixiy shaharlar, dengiz, moda va nafis taomlar. Dam olishni madaniy taassurotlar bilan birlashtirmoqchi bo‘lganlar uchun.",
 
-    about_title: "Nega aynan BI TOUR",
+    about_title: "Nega aynan DREAM COMPASS",
     about_lead: "Biz shunchaki tur sotmaymiz. Dam olishingizni o‘z zimmamizga olamiz, siz esa sayohatni birinchi qadamidan uyga qaytgunga qadar xotirjam bahramand bo‘lasiz.",
 
     about_card1_title: "Individual yondashuv",
@@ -364,6 +369,11 @@ const translations = {
     about_bottom: " — bu har bir sayohatda xotirjamlik, ishonch va qulaylik. Dam olishingiz siz tasavvur qilganingizdek bo‘lishi uchun har bosqichda yoningizdamiz.",
 
     map_title: "Manzilimiz",
+
+    director_info: "Rahbarning F.I.Sh",
+    director_name: "Rahimova Feruza Shavkat qizi",
+    time_info: "Ish vaqti",
+    time_duration: "10:00 - 19:00",
 
     footer_address: "O‘zbekiston, Toshkent sh.<br>Amir Temur shoh ko‘chasi, 15<br>Mo‘ljal: TIFT university<br>",
 
@@ -414,7 +424,7 @@ const translations = {
     card6_title: "Italy",
     card6_desc: "Culture, cuisine, and romance\nHistoric cities, the sea, fashion, and exquisite food. Perfect for combining vacation with cultural experiences.",
 
-    about_title: "Why BI TOUR",
+    about_title: "Why DREAM COMPASS",
     about_lead: "We don’t just sell tours. We take care of your trip so you can enjoy it calmly from the first step until you return home.",
 
     about_card1_title: "Personal approach",
@@ -439,6 +449,11 @@ const translations = {
     about_bottom: " means peace of mind, confidence, and comfort in every journey. We’re with you at every step so your vacation matches the way you imagine it.",
 
     map_title: "Our Address",
+
+    director_info: "Owner",
+    director_name: "Rakhimova Feruza Shavkat qizi",
+    time_info: "Working hours",
+    time_duration: "10:00 am - 07:00 pm",
 
     footer_address: "Uzbekistan, Tashkent<br>Amir Temur Avenue, 15<br>Landmark: TIFT university<br>",
 
