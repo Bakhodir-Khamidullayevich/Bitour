@@ -1,7 +1,7 @@
 <?php
 header('Content-Type: application/json; charset=utf-8');
 
-$to = "al.jazeera.f4@gmail.com";
+$to = "Feyasar001@gmail.com";
 $subject = "Заявка: Подобрать тур (BI tour)";
 
 $name  = isset($_POST['name'])  ? trim($_POST['name'])  : '';
